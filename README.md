@@ -23,6 +23,12 @@ and coding of course :computer:
 <img align="left" alt="MathLab" width="100px" src="https://www.celt.iastate.edu/wp-content/uploads/2021/05/MATLAB-logo.png">
 <img align="left" alt="Linux" width="100px" src="https://multimedia.emkt.respondeai.com.br/respai-GXfnk/photos/6f0f5d8b-caba-4fbb-828f-c4ebc496eafa.png">
 <img align="left" alt="Mac" width="100px" src="https://brandlogos.net/wp-content/uploads/2013/04/mac-os-vector-logo.png">
+<img align="left" alt="Git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+<img align="left" alt="NI LabView" width="100px" src="https://mlegimnpy7qi.i.optimole.com/fUOxAhg-EUDSlbiN/w:auto/h:auto/q:mauto/https://www.softwarekey.com/wp-content/uploads/2015/05/labview-logo.png">
+<img align="left" alt="AutoCAD" width="100px" src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png">
+<img align="left" alt="Unity" width="100px" src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png">
+<img align="left" alt="Asana" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg">
+<img align="left" alt="Microsoft Office" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg">
 
 <br />
 <br />
@@ -42,3 +48,4 @@ and coding of course :computer:
 <a href="https://www.facebook.com/ilie.cojocaru.777"><img align="left" alt="Facebook" width="50px" src="https://www.facebook.com/images/fb_icon_325x325.png" /></a>
 <a href="https://www.instagram.com/ilie.cojocaru.777"><img align="left" alt="Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
 <a href="https://www.linkedin.com/in/ilie-c-7b6935142"><img align="left" alt="LinkedIn" width="100px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png" /></a>
+<a href="+37369125802"><img align="left" alt="LinkedIn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" /></a>
