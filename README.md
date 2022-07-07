@@ -53,3 +53,14 @@ and coding of course :computer:
 <a href="https://www.facebook.com/ilie.cojocaru.777"><img align="left" alt="Facebook" width="50px" src="https://www.facebook.com/images/fb_icon_325x325.png" /></a>
 <a href="https://www.instagram.com/ilie.cojocaru.777"><img align="left" alt="Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
 <a href="https://www.linkedin.com/in/ilie-c-7b6935142"><img align="left" alt="LinkedIn" width="100px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png" /></a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+---
+
+### Curriculum Vitae (C.V.)
+https://drive.google.com/file/d/1p7eIsTAzabp2Ap2zrk2RNK_HKTeuPqTh/view?usp=sharing
