@@ -20,7 +20,6 @@ and coding of course :computer:
 <img align="left" alt="Platform .NET" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/800px-.NET_Logo.svg.png">
 <img align="left" alt="PyCharm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
 <img align="left" alt="Visual Studio" width="100px" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2020/04/devblog-brand-visualstudiowin2019.png">
-<img align="left" alt="MathLab" width="100px" src="https://www.celt.iastate.edu/wp-content/uploads/2021/05/MATLAB-logo.png">
 <img align="left" alt="Linux" width="100px" src="https://multimedia.emkt.respondeai.com.br/respai-GXfnk/photos/6f0f5d8b-caba-4fbb-828f-c4ebc496eafa.png">
 <img align="left" alt="Mac" width="100px" src="https://brandlogos.net/wp-content/uploads/2013/04/mac-os-vector-logo.png">
 <img align="left" alt="Git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
