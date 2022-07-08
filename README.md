@@ -36,14 +36,6 @@ and coding of course :computer:
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
@@ -55,9 +47,6 @@ and coding of course :computer:
 
 <br />
 <br />
-<br />
-<br />
-
 
 ---
 
